@@ -1,6 +1,10 @@
 Classic Arcade game clone -- Frogger
 ===============================
+The porject is a clone of classic arcade game Frogger based on the art assets and game engine provided by Udacity. I coded player, enemies, and other game entities in JavaScript's object-oriented pseudo-classical style, created enemy subclasses with different movement patterns and sprites.
+
 The project is hosted at : http://qqttss.github.io/arcade-game-clone/
+
+How to play?
 
 In this game you have a Player and two Enemies (Bugs). The goal of the player is to reach the water,
 without colliding into any one of the enemies. The player can move left, right, up and down.
